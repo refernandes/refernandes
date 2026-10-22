@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/bitdepth-banner.svg" alt="Renan Sousa — Developer focused on AI systems" width="100%" />
+  <img src="./assets/developer-ai-systems.svg" alt="Renan Sousa — Developer focused on AI systems" width="100%" />
 </div>
 
 <div align="center">
