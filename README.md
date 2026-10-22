@@ -6,7 +6,7 @@
 
 ### Developer II · AI Systems Architecture
 
-I design software architectures for AI systems, connecting models, data, tools, and real-world workflows.
+I build software for AI systems, with a focus on how models, data, and tools fit into real workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrfsousa/)
 [![BitDepth](https://img.shields.io/badge/BitDepth-Read%20the%20ideas-23A6A1?style=flat-square&logo=googlescholar&logoColor=white)](https://bitdepth.com.br/)
