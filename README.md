@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/bitdepth-banner.svg" alt="Renan Sousa — Software Architect focused on AI systems" width="100%" />
+  <img src="./assets/bitdepth-banner.svg" alt="Renan Sousa — Developer focused on AI systems" width="100%" />
 </div>
 
 <div align="center">
 
-### Software Architect · AI Systems
+### Developer II · AI Systems Architecture
 
 I design software architectures for AI systems, connecting models, data, tools, and real-world workflows.
 
@@ -18,7 +18,7 @@ I design software architectures for AI systems, connecting models, data, tools, 
 
 ## About
 
-I work as a **Software Architect focused on AI architectures**. My formal HR title is **Developer II**; my day-to-day work centers on architectural decisions for AI software.
+I work as a **Developer II**, contributing to software architecture for AI systems. My current focus is designing how AI components fit into reliable, secure software.
 
 Before moving into software architecture, I worked as a Cisco Solutions Engineer focused on cybersecurity, data centers, and networking. That experience still shapes how I approach AI systems: security, integration, reliability, and operations belong in the design from the start.
 
