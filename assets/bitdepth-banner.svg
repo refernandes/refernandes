@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
-  <title id="title">Renan Sousa — Software Architect, AI Systems</title>
+  <title id="title">Renan Sousa — Developer, AI Systems</title>
   <desc id="desc">A dark technical banner with a connected systems diagram in teal and amber.</desc>
   <rect width="1400" height="360" rx="20" fill="#0b1220"/>
   <path d="M0 290H1400M0 320H1400M980 0V360M1040 0V360M1100 0V360M1160 0V360M1220 0V360M1280 0V360M1340 0V360" stroke="#182538" stroke-width="1"/>
@@ -24,7 +24,7 @@
   <circle cx="1160" cy="175" r="6" fill="#e9a85a"/>
   <text x="88" y="92" fill="#38c5b5" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">BITDEPTH / SYSTEMS / AI</text>
   <text x="84" y="164" fill="#f3f6fa" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Renan Sousa</text>
-  <text x="88" y="208" fill="#c6d4e3" font-family="Arial, Helvetica, sans-serif" font-size="25">Software Architect · AI Systems</text>
+  <text x="88" y="208" fill="#c6d4e3" font-family="Arial, Helvetica, sans-serif" font-size="25">Developer II · AI Systems Architecture</text>
   <path d="M88 242H475" stroke="#38c5b5" stroke-width="3"/>
   <text x="88" y="279" fill="#8fa3b8" font-family="Arial, Helvetica, sans-serif" font-size="17">From systems foundations to production-minded AI architecture.</text>
 </svg>
